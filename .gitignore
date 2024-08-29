@@ -4,6 +4,7 @@ bootstrap.js
 bootstrap.json
 bootstrap.jsonp
 node_modules
+.next
 build/
 classic.json
 classic.jsonp
